@@ -24,7 +24,7 @@ All labels were formatted in the standard format for <a href="https://pjreddie.c
 
 ## Results
 
-All results can be found in the Result folder, below are some examples of detection within videos. This is a good example of how BILLY would detect obstacles in a scene.
+All results can be found in the Result folder, below are some examples of detection within videos. This is a good example of how BILLY would detect obstacles in a scene. <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a> is provided as a comparison model that was trained for a similar purpose.
 
 ### Version 1
 ![alt text](/readme_figures/results-v1.gif) 
