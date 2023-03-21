@@ -24,4 +24,4 @@ All labels were formatted in the standard format for <a href="https://pjreddie.c
 
 ## Results
 
-![alt text](/readme_figures/ezgif-5-ea7bec4be2.gif)
+![alt text](/readme_figures/results-v1.gif) ![alt text](/readme_figures/results-v3.gif)
