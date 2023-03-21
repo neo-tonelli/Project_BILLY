@@ -7,6 +7,6 @@ Built from AlexeyAB's <a href="https://github.com/AlexeyAB/darknet" title="Darkn
 ## Images
 The images used for training were downloaded from google images using a chrome extension to save each image on the results page. 
 
-![alt text](/readme_figures/Door Classification.png)
+![alt text](/readme_figures/Door_Classification.png)
 
 ![alt text](/readme_figures/Samples.png)
