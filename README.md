@@ -24,4 +24,13 @@ All labels were formatted in the standard format for <a href="https://pjreddie.c
 
 ## Results
 
-![alt text](/readme_figures/results-v1.gif) ![alt text](/readme_figures/results-v3.gif)
+All results can be found in the Result folder, below are some examples of detection within videos. This is a good example of how BILLY would detect obstacles in a scene.
+
+### Version 1
+![alt text](/readme_figures/results-v1.gif) 
+
+### Version 2
+
+### <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a>
+![alt text](/readme_figures/results-v3.gif)
+
