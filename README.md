@@ -33,5 +33,6 @@ All results can be found in the Result folder, below are some examples of detect
 
 ### <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a>
 ![alt text](/readme_figures/results-v3.gif)
+
 The video above shows the mis-classification due to the additional classes that are not relevant to the model used for BILLY.
 
