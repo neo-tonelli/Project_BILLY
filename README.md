@@ -24,7 +24,7 @@ All labels were formatted in the standard format for <a href="https://pjreddie.c
 
 ## Results
 
-All results can be found in the Result folder, below are some examples of detection within photos and videos. This is a good example of how BILLY would detect obstacles in a scene. <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a> is provided as a comparison model that was trained for a similar purpose.
+All results can be found in the Result folder on the <a href="https://drive.google.com/drive/folders/1N_Z6B985iYC5AdrLuBfe8XfZSjK0Dq7d?usp=share_link" title="Google Drive">Google Drive</a>, below are some examples of detection within photos and videos. This is a good example of how BILLY would detect obstacles in a scene. <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a> is provided as a comparison model that was trained for a similar purpose.
 
 Version 1 to 3 from left to right.
 
