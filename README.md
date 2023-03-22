@@ -40,5 +40,5 @@ Version 1 to 3 from left to right.
 ### <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a>
 ![alt text](/readme_figures/results-v3.gif)
 
-The video above shows the mis-classification due to the additional classes that are not relevant to the model used for BILLY.
+The video above shows the misclassification due to the additional classes that are not relevant to the model used for BILLY.
 
