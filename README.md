@@ -30,7 +30,7 @@ All results can be found in the Result folder, below are some examples of detect
 ![alt text](/readme_figures/results-v1.gif) 
 
 ### Version 2
-![alt text](/readme_figures/Results-v2.gif) 
+![alt text](/readme_figures/Results-2.gif) 
 
 ### <a href="https://github.com/MiguelARD/DoorDetect-Dataset" title="DoorDetect-Dataset">DoorDetect-Dataset</a>
 ![alt text](/readme_figures/results-v3.gif)
